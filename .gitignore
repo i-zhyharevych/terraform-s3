@@ -1,4 +1,4 @@
 *.tfstate*
 *.tfstate.*
 *.vscode*
-*.terraform-provider-aws_v4.35.0_x5*
+*.terraform.*
